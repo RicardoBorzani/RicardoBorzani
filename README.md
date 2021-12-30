@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RicardoBorzani
+- 👀 I’m interested in JavaEE, C++, C#
+- 🌱 I’m currently learning Unity C#
+- 💞️ I’m looking to collaborate on Unity procedural generation
+- 📫 How to reach me ricardo.borzani@yahoo.com
